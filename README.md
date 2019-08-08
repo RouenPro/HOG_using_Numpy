@@ -1,0 +1,1 @@
+# HOG_using_Numpy
